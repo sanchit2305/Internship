@@ -96,4 +96,3 @@ The provided code uses the following Python libraries:
 
 ---
 
-Feel free to customize and expand on this template to provide detailed explanations, additional sections, and any specific instructions related to running, testing, and contributing to your codebase.
